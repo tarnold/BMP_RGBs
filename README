@@ -1,0 +1,8 @@
+Takes a single argument of a BMP image and iterates through the image returning RGB values.
+
+Things to implement:
+	1. RGB to YIQ conversion (easier to make the proper saturation adjustments)
+	2. YIQ to RGB conversion
+	3. YIQ saturation manipulator
+	4. Logic to apply the new saturated RGB value to the individual pixel
+
